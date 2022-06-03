@@ -2,7 +2,7 @@
   "dependencies": {
     "Base64": "0.3.0",
     "assert": "1.4.1",
-    "async": "2.1.2",
+    "async": "2.6.4",
     "bignumber.js": "4.0.1",
     "body-parser": "1.15.2",
     "command-line-args": "3.0.1",
